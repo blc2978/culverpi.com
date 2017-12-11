@@ -1,7 +1,19 @@
 body {
 	font-family: verdana;
-	background-color: rgb(201,186,169);
-	color: rgb(88,109,114)}
+	background-color: rgb(211,203,194);
+	color: rgb(88,109,114)
+}
 h1 {
-	text-align: center;
-	color: rgb(51,75,81);}
+	text-align: left;
+	color: rgb(51,75,81);
+	background-color: rgb(165,158,150);}
+h5 {
+	color: rgb(51,75,81);
+	background-color: rgb(165,158,150);
+}
+img.align-center {
+	display: block;
+	margin: 0px auto;}
+img.large {
+	width: 960px;
+	height: 497px;}
